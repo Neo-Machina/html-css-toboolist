@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color:grey;
+    background-color:#f6f8f9;
     font-family: Verdana, sans-serif;
 }
 
@@ -64,6 +64,8 @@ header{
     margin-top: 7px;
     margin-bottom: 30px;
     margin-left: -60px;
+    border-style: solid;
+    border-color: #f6f8f9;
 }
 /* UNORDER LIST */
 ul{
@@ -73,6 +75,7 @@ ul{
 .thick{
     font-weight: bold;
     font-size: 20px;
+    margin-top: ;
 }
 
 .check-circle{
@@ -97,8 +100,9 @@ ul{
     text-align: center;
     border:2px solid #eb5952;
     color: #eb5952;
-    font-size: 12px;
+    font-size: 7px;
     font-weight: bolder;
+    line-height: 15px;
 }
 
 .blue-circle{
@@ -181,6 +185,14 @@ ul{
 
 }
 
-li{
-    margin-top: 20px;
+.title{
+    margin-top: 25px;
 }
+
+ul li{ 
+    margin-top: 20px; 
+} 
+
+ul li ul li:first-child{
+     margin-top: 5px;
+} 
