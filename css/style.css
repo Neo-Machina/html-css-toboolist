@@ -5,24 +5,25 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: grey;
+}
+
 /* HEADER */
 header{
-    width: 97%;
-    margin: auto;
+    background-color: white;
+    padding: 15px;
 }
 
 .logo{   
     vertical-align: middle;
+    height: 55px;
 }
 
 .brand{
-    font-size: 40px;
+    font-size: 50px;
     vertical-align: middle;
     font-weight: bold;
     font-family: Verdana, sans-serif;
 }
 
-main{
-    background-color: blue;
-}
-}
