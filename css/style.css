@@ -19,5 +19,10 @@ header{
     font-size: 40px;
     vertical-align: middle;
     font-weight: bold;
-    font-family: Arial, sans-serif;
+    font-family: Verdana, sans-serif;
+}
+
+main{
+    background-color: blue;
+}
 }
