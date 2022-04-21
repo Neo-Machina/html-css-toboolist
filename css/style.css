@@ -64,3 +64,114 @@ header{
 ul{
     list-style-type: none;
 }
+
+.thick{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.check-circle{
+    display: inline-block;
+    background-color: #ffffff;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    border:2px solid #92d4c4;
+    color: #92d4c4;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.cross-circle{
+    display: inline-block;
+    background-color: #ffffff;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    border:2px solid #eb5952;
+    color: #eb5952;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.blue-circle{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 4px 10px;
+    font-weight: bold;
+    background-color: #47adf1;
+    color: #ffffff;
+    border-color: #47adf1;
+    font-size: 10px;
+}
+
+.purple-circle{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 4px 10px;
+    font-weight: bold;
+    background-color: #9c72e4;
+    color: #ffffff;
+    border-color: #9c72e4;
+    font-size: 10px;
+
+}
+
+.green-circle{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 4px 10px;
+    font-weight: bold;
+    background-color: #64c0a9;
+    color: #ffffff;
+    border-color: #64c0a9;
+    font-size: 10px;
+}
+
+.orange-circle{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 4px 10px;
+    font-weight: bold;
+    background-color: #f29e33;
+    color: #ffffff;
+    border-color: #f29e33;
+    font-size: 10px;
+}
+
+.pink-circle{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 4px 10px;
+    font-weight: bold;
+    background-color: #d863a1;
+    color: #ffffff;
+    border-color: #d863a1;
+    font-size: 10px;
+}
+
+.gyellow-circle{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 4px 10px;
+    font-weight: bold;
+    background-color: #b0c926;
+    color: #ffffff;
+    border-color: #b0c926;
+    font-size: 10px;
+
+}
