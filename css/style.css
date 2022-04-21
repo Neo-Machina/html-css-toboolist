@@ -1,0 +1,23 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+header{
+    width: 97%;
+    margin: auto;
+}
+
+.logo{   
+    vertical-align: middle;
+}
+
+.brand{
+    font-size: 40px;
+    vertical-align: middle;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
