@@ -74,9 +74,20 @@ ul{
 
 .thick{
     font-weight: bold;
-    font-size: 20px;
-    margin-top: ;
+    font-size: 20px;    
 }
+
+.title{
+    margin-top: 25px;
+}
+
+ul li{ 
+    margin-top: 20px; 
+} 
+
+ul li ul li:first-child{
+     margin-top: 5px;
+} 
 
 .check-circle{
     display: inline-block;
@@ -182,17 +193,4 @@ ul{
     color: #ffffff;
     border-color: #b0c926;
     font-size: 10px;
-
 }
-
-.title{
-    margin-top: 25px;
-}
-
-ul li{ 
-    margin-top: 20px; 
-} 
-
-ul li ul li:first-child{
-     margin-top: 5px;
-} 
